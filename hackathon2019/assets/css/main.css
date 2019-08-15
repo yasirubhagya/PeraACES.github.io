@@ -7,6 +7,8 @@
     background-image: url(../img/demo-2-bg.jpg);
     background-position: center bottom;
     position: relative;
+  #loader-wrapper {
+    position: fixed;
     width: 100%;
     /*background: #333;*/
     overflow: hidden;
